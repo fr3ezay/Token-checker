@@ -1,5 +1,5 @@
 # **Token Checker**
-Lightweight Token Checker Script
+Little Discord Token Checker Script
 Works On **Windows** should work on **Mac** / **Linux**
 
 ## REQUIREMENTS
