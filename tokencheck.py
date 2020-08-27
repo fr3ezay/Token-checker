@@ -14,6 +14,6 @@ def B():
  Token    : {E}
 
             """);D(M);B()
-		else:C(Fore.RED+'Invalid Token'+Fore.RESET);D([M]);B()
+		else:C('Invalid Token');D([M]);B()
 	except KeyboardInterrupt:sys.exit()
 B()
